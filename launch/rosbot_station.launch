@@ -1,0 +1,11 @@
+<launch>
+
+<node
+    pkg="rosbot_station"
+    type="rosbot_station"
+    name="rosbot_station"
+    required="true"
+    output="screen"
+/>
+
+</launch>
